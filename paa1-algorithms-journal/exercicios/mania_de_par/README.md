@@ -29,7 +29,7 @@
 
 ### Espaço
 
-> *(Justifique usando notação assintótica. Considere estruturas de dados usadas, recursão, etc.)*
+> Complexidade: O(|V| + |E|) --> Devido a lista de adjascencia, principalmente
 
 ## 🔍 Corretude
 
@@ -46,6 +46,5 @@
 
 ## 📸 Evidência de Submissão
 
-> *(Adicione o print do Beecrowd mostrando "Accepted" abaixo)*
+![Accepted no Beecrowd](image.png)
 
-![Accepted no Beecrowd](accepted.png)
